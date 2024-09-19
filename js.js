@@ -68,7 +68,9 @@ const newExecutiveContacts = [
     { name: "Umar Khan 2", phone: "+92312-5830574", category: "Suppliers Contacts", subcategory: "None" },
     { name: "Ramzan Shaloli 1", phone: "+92301-7150540", category: "Suppliers Contacts", subcategory: "None" },
     { name: "Ramzan Shaloli 2", phone: "+92346-7779039", category: "Suppliers Contacts", subcategory: "None" },
-    { name: "Munshi Adil", phone: "+92305-8765486", category: "Suppliers Contacts", subcategory: "None" }
+    { name: "Munshi Adil", phone: "+92305-8765486", category: "Suppliers Contacts", subcategory: "None" },
+    { name: "Shah Jahan", phone: "+92300-6096026", category: "Suppliers Contacts", subcategory: "None" }
+      
   ];
   
   // Predefined contacts to be added under "Brokers Numbers"
