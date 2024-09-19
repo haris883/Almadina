@@ -19,7 +19,8 @@ function saveContact(name, phone, category, subcategory) {
 const newExecutiveContacts = [
     { name: "Shabhir Qadri", phone: "+92312-9832611", category: "Executive Contacts", subcategory: "None" },
     { name: "Muneer Nake ", phone: "+92301-6089348", category: "Executive Contacts", subcategory: "None" },
-    { name: "Muhammad Ilyas ", phone: "+92311-6833148", category: "Executive Contacts", subcategory: "None" }
+    { name: "Muhammad Ilyas ", phone: "+92311-6833148", category: "Executive Contacts", subcategory: "None" },
+    { name: "Muhammad Haseeb ", phone: "+92344-7895822", category: "Executive Contacts", subcategory: "None" }
   ];
   
   // Predefined contacts to be added under "Shop Keepers Contacts"
