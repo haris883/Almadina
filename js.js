@@ -50,7 +50,7 @@ const newExecutiveContacts = [
     { name: "Malik Raheel Gunjal", phone: "+92345-2245000", category: "Suppliers Contacts", subcategory: "None" },
     { name: "Peer Aziz Shah", phone: "+92302-7082178", category: "Suppliers Contacts", subcategory: "None" },
     { name: "Oranzaib Broker", phone: "+92303-7512534", category: "Suppliers Contacts", subcategory: "None" },
-    { name: "Amir Broker", phone: "+92301-5292774", category: "Brokers Numbers", subcategory: "None" },
+    { name: "Amirr Broker", phone: "+92301-5292774", category: "Suppliers Contacts", subcategory: "None" },
     { name: "Haji Nazeer Baloch", phone: "+92300-6080891", category: "Suppliers Contacts", subcategory: "None" },
     { name: "Mubarak Khaleel 1", phone: "+92300-9015006", category: "Suppliers Contacts", subcategory: "None" },
     { name: "Mubarak Khaleel 2", phone: "+92302-8558032", category: "Suppliers Contacts", subcategory: "None" },
