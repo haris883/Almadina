@@ -80,7 +80,7 @@ const newExecutiveContacts = [
     { name: "Ramzan Shaloli Telenor", phone: "+92346-7779039", category: "Brokers Numbers", subcategory: "None" },
     { name: "Rana Habib Mithu", phone: "+92300-2667626", category: "Brokers Numbers", subcategory: "None" },
     { name: "Amir Broker", phone: "+92301-5292774", category: "Brokers Numbers", subcategory: "None" },
-    { name: "Oranzaib Broker", phone: "+92303-7512534", category: "Suppliers Contacts", subcategory: "None" }
+    { name: "Oranzaib Broker", phone: "+92303-7512534", category: "Brokers Numbers", subcategory: "None" }
   ];
   
   // Predefined contacts to be added under "Dera Shop Keepers Contact"
