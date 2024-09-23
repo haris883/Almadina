@@ -404,3 +404,8 @@ function downloadContacts(categoryOrSubcategory, list) {
     link.click();
     document.body.removeChild(link);
 }
+// Function to show Almadina Bank Accounts image
+function viewAlmadinaBankAccounts() {
+    const bankAccountsSection = document.getElementById('almadina-bank-accounts');
+    bankAccountsSection.style.display = 'block';  // Show the section with the image
+}
