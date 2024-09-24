@@ -19,8 +19,7 @@ function saveContact(name, phone, category, subcategory) {
 const newExecutiveContacts = [
     { name: "Shabhir Qadri", phone: "+92312-9832611", category: "Executive Contacts", subcategory: "None" },
     { name: "Muneer Nake ", phone: "+92301-6089348", category: "Executive Contacts", subcategory: "None" },
-    { name: "Muhammad Ilyas ", phone: "+92311-6833148", category: "Executive Contacts", subcategory: "None" },
-    { name: "Muhammad Haseeb ", phone: "+92344-7895822", category: "Executive Contacts", subcategory: "None" }
+    { name: "Muhammad Ilyas ", phone: "+92311-6833148", category: "Executive Contacts", subcategory: "None" }
   ];
   
   // Predefined contacts to be added under "Shop Keepers Contacts"
@@ -50,7 +49,7 @@ const newExecutiveContacts = [
     { name: "Malik Raheel Gunjal", phone: "+92345-2245000", category: "Suppliers Contacts", subcategory: "None" },
     { name: "Peer Aziz Shah", phone: "+92302-7082178", category: "Suppliers Contacts", subcategory: "None" },
     { name: "Oranzaib Broker", phone: "+92303-7512534", category: "Suppliers Contacts", subcategory: "None" },
-    { name: "Amirr Broker", phone: "+92301-5292774", category: "Suppliers Contacts", subcategory: "None" },
+    { name: "Amir Broker", phone: "+92301-5292774", category: "Brokers Numbers", subcategory: "None" },
     { name: "Haji Nazeer Baloch", phone: "+92300-6080891", category: "Suppliers Contacts", subcategory: "None" },
     { name: "Mubarak Khaleel 1", phone: "+92300-9015006", category: "Suppliers Contacts", subcategory: "None" },
     { name: "Mubarak Khaleel 2", phone: "+92302-8558032", category: "Suppliers Contacts", subcategory: "None" },
@@ -69,10 +68,7 @@ const newExecutiveContacts = [
     { name: "Umar Khan 2", phone: "+92312-5830574", category: "Suppliers Contacts", subcategory: "None" },
     { name: "Ramzan Shaloli 1", phone: "+92301-7150540", category: "Suppliers Contacts", subcategory: "None" },
     { name: "Ramzan Shaloli 2", phone: "+92346-7779039", category: "Suppliers Contacts", subcategory: "None" },
-    { name: "Munshi Adil", phone: "+92305-8765486", category: "Suppliers Contacts", subcategory: "None" },
-    { name: "Shah Jahan", phone: "+92300-6096026", category: "Suppliers Contacts", subcategory: "None" },
-    { name: "Azmat ullah " phone: "+92303-0565099", category: "Suppliers Contacts", subcategory: "None" }
-      
+    { name: "Munshi Adil", phone: "+92305-8765486", category: "Suppliers Contacts", subcategory: "None" }
   ];
   
   // Predefined contacts to be added under "Brokers Numbers"
@@ -81,7 +77,7 @@ const newExecutiveContacts = [
     { name: "Ramzan Shaloli Telenor", phone: "+92346-7779039", category: "Brokers Numbers", subcategory: "None" },
     { name: "Rana Habib Mithu", phone: "+92300-2667626", category: "Brokers Numbers", subcategory: "None" },
     { name: "Amir Broker", phone: "+92301-5292774", category: "Brokers Numbers", subcategory: "None" },
-    { name: "Oranzaib Broker", phone: "+92303-7512534", category: "Brokers Numbers", subcategory: "None" }
+    { name: "Oranzaib Broker", phone: "+92303-7512534", category: "Suppliers Contacts", subcategory: "None" }
   ];
   
   // Predefined contacts to be added under "Dera Shop Keepers Contact"
