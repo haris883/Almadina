@@ -17,7 +17,7 @@ function saveContact(name, phone, category, subcategory) {
 // Predefined contacts to be added under "Executive Contacts"
 // Predefined contacts to be added under "Executive Contacts"
 const newExecutiveContacts = [
-    { name: "Shabhir Ahmad", phone: "+92312-9832611", category: "Executive Contacts", subcategory: "None" },
+    { name: "Shabhir Ahmad ", phone: "+92312-9832611", category: "Executive Contacts", subcategory: "None" },
     { name: "Muneer Nake ", phone: "+92301-6089348", category: "Executive Contacts", subcategory: "None" },
     { name: "Muhammad Ilyas ", phone: "+92311-6833148", category: "Executive Contacts", subcategory: "None" }
   ];
